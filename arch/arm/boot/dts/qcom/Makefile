@@ -251,6 +251,10 @@ dtb-$(CONFIG_FIH_SDM630_SDM660_PROJS) += sdm660-mtp.dtb \
   sdm660-mtp-tas-EVT.dtb \
   sdm660-mtp-tas-PVT.dtb \
   sdm660-mtp-tas-MP.dtb \
+  sdm660-mtp-overlay_tas-EVT.dtb \
+  sdm660-mtp-overlay_tas-MP.dtb \
+  sdm660-mtp-overlay_tas-PVT.dtb \
+  sdm660-mtp-overlay_tas-preEVT.dtb \
   sdm630-cdp-s2-evt.dtb \
   sdm630-cdp-s2-dvt.dtb \
   sdm630-mtp-s2-evt.dtb \
